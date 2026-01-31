@@ -2,9 +2,9 @@
 
 # JUAQUIN VICTOR LANDAYAN
 
-**Full Stack Software Engineer**
+**Full Stack Engineer → System Design Enthusiast**
 
-Building production systems with .NET • Angular • Next.js
+Building distributed systems • Async messaging • Microservices architecture
 
 <br>
 
@@ -19,50 +19,112 @@ Building production systems with .NET • Angular • Next.js
 <br>
 
 ```yaml
-current_status:
-  - role: "Full Stack Engineer (Contract)"
-    company: "China Bank PH"
-    timeline: "Oct 2025 - Present"
-    focus: ["ETL Pipelines", "Microservices", "gRPC", "Azure Service Bus"]
+current_focus:
+  learning: "System Design & Distributed Systems Architecture"
+  reading: 
+    - "Designing Data-Intensive Applications (Martin Kleppmann)"
+    - "Building Microservices (Sam Newman)"
+  practicing:
+    - "Event-driven architectures"
+    - "Async messaging patterns (Pub/Sub, Message Queues)"
+    - "Distributed transaction patterns (Saga, 2PC)"
+    - "Service mesh and API Gateway patterns"
     
-  - role: "Full Stack Engineer"
-    company: "Dub Lab Philippines"
+roles:
+  - company: "China Bank PH"
+    position: "Full Stack Engineer (Contract)"
+    timeline: "Oct 2025 - Present"
+    building: ["ETL Pipelines", "Microservices with gRPC", "Azure Service Bus integration"]
+    
+  - company: "Dub Lab Philippines"
+    position: "Full Stack Engineer"
     timeline: "July 2025 - Present"
-    focus: ["Sports CMS", "Next.js", "Real-time WebSockets", "Content Management"]
+    building: ["Sports CMS", "Real-time event streaming", "WebSocket architecture"]
 ```
 
 <br>
 
 ---
 
-## ⚡ Tech Stack
+## 🏗️ System Design Focus
+
+Currently deep-diving into distributed systems architecture and async communication patterns.
+
+<table>
+<tr>
+<td width="50%">
+
+### Building Right Now
+```
+┌─ Microservices Platform
+│  ├── gRPC inter-service communication
+│  ├── Azure Service Bus (async messaging)
+│  ├── Event-driven workflows
+│  └── Saga pattern for distributed transactions
+│
+├─ Real-time Systems
+│  ├── WebSocket event streaming
+│  ├── Pub/Sub with Redis
+│  └── Message broker patterns
+│
+└─ Data Pipelines
+   ├── ETL orchestration (SSIS)
+   ├── CDC patterns
+   └── Data consistency strategies
+```
+
+</td>
+<td width="50%">
+
+### Learning & Experimenting
+```
+System Design Patterns
+├── API Gateway & BFF
+├── Service Discovery
+├── Circuit Breaker
+├── CQRS + Event Sourcing
+└── Distributed Caching
+
+Async Communication
+├── Message Queues (Azure Service Bus)
+├── Pub/Sub (Redis)
+├── Event-driven Architecture
+└── Dead Letter Queues
+
+Data Consistency
+├── Saga Pattern
+├── 2-Phase Commit
+├── Eventual Consistency
+└── Idempotency patterns
+```
+
+</td>
+</tr>
+</table>
+
+<br>
+
+---
+
+## ⚡ Technical Arsenal
 
 <table>
 <tr>
 <td valign="top" width="33%">
 
-### Frontend
+### Languages & Frameworks
 ```
-TypeScript
+TypeScript/JavaScript
 ├── Angular (2-18)
 ├── Next.js
 ├── React
 └── Vue.js
 
-Styling
-└── TailwindCSS
-```
-
-</td>
-<td valign="top" width="33%">
-
-### Backend
-```
-.NET (5, 8, 9, 10)
-├── Microservices
-├── gRPC
-├── REST APIs
-└── Clean Architecture
+C# / .NET
+├── .NET 5, 8, 9, 10
+├── ASP.NET Core
+├── Entity Framework Core
+└── Minimal APIs
 
 Node.js
 └── Express
@@ -71,18 +133,49 @@ Node.js
 </td>
 <td valign="top" width="33%">
 
-### Data & Cloud
+### Architecture & Messaging
 ```
+Microservices
+├── gRPC
+├── REST APIs
+├── Domain-Driven Design
+└── Clean Architecture
+
+Async Messaging
+├── Azure Service Bus
+├── Redis Pub/Sub
+├── WebSockets
+└── Socket.io
+
+Patterns
+├── CQRS
+├── Event Sourcing
+├── Saga Pattern
+└── API Gateway
+```
+
+</td>
+<td valign="top" width="33%">
+
+### Infrastructure & Data
+```
+Cloud (Azure)
+├── AKS (Kubernetes)
+├── Service Bus
+├── Azure DevOps
+├── App Service
+└── Key Vault
+
 Databases
 ├── MSSQL
 ├── MongoDB
-└── Redis
+├── Redis
+└── Qdrant (Vector DB)
 
-Azure
-├── AKS
-├── Service Bus
-├── DevOps
-└── App Service
+DevOps
+├── Docker
+├── Kubernetes
+└── CI/CD Pipelines
 ```
 
 </td>
@@ -90,19 +183,16 @@ Azure
 </table>
 
 <details>
-<summary><b>Extended Stack</b></summary>
+<summary><b>Extended Tooling</b></summary>
 
-**ORMs & Data Tools**  
-Entity Framework Core • Prisma • Qdrant Vector DB • SSIS
-
-**DevOps & Containers**  
-Docker • Kubernetes • Azure Pipelines • Jenkins • CI/CD
+**Data & Integration**  
+SSIS • Azure Data Factory • ETL Patterns • CDC • Message Brokers
 
 **Web3 & AI**  
 Solidity • Polygon Network • OpenAI API • Anthropic Claude • RAG Pipelines
 
-**Real-time & Messaging**  
-WebSockets • Socket.io • Azure Service Bus • Redis Pub/Sub
+**Styling & Frontend**  
+TailwindCSS • Component Libraries • Responsive Design
 
 </details>
 
@@ -110,7 +200,7 @@ WebSockets • Socket.io • Azure Service Bus • Redis Pub/Sub
 
 ---
 
-## 💼 Career Snapshot
+## 💼 Professional Experience
 
 <table>
 <tr><td>
@@ -118,7 +208,10 @@ WebSockets • Socket.io • Azure Service Bus • Redis Pub/Sub
 **Willis Towers Watson** • *Full Stack .NET Engineer*  
 `Aug 2022 - Jan 2024`
 
-Shipped Angular + microservices features • Migrated HTTP to gRPC across services • Deployed on Azure Kubernetes with Redis caching
+- Architected migration from HTTP to gRPC for inter-service communication
+- Developed microservices with Azure Kubernetes Service and Redis caching
+- Implemented async patterns for improved system resilience
+- Built Angular frontends integrated with distributed backend services
 
 </td></tr>
 <tr><td>
@@ -126,7 +219,10 @@ Shipped Angular + microservices features • Migrated HTTP to gRPC across servic
 **Agora Hive** • *Full Stack Engineer (Freelance)*  
 `Jan 2024 - July 2025`
 
-Built crypto research bot with RAG pipeline • Deployed smart contracts on Polygon • Full-stack apps with Next.js, Vue, Angular
+- Designed end-to-end orchestration system for crypto research bot (RAG pipeline)
+- Built event-driven data collection with async processing
+- Deployed smart contracts on Polygon Network
+- Architected full-stack applications with serverless patterns
 
 </td></tr>
 <tr><td>
@@ -134,7 +230,9 @@ Built crypto research bot with RAG pipeline • Deployed smart contracts on Poly
 **Manulife** • *Full Stack Engineer Intern*  
 `March 2022 - July 2022`
 
-Node.js APIs for KPI dashboards • Azure Data Factory ETL • CI/CD with Jenkins
+- Developed REST APIs with Node.js/Express for KPI dashboards
+- Worked with Azure Data Factory ETL pipelines
+- Implemented CI/CD workflows with Jenkins
 
 </td></tr>
 </table>
@@ -143,55 +241,106 @@ Node.js APIs for KPI dashboards • Azure Data Factory ETL • CI/CD with Jenkin
 
 ---
 
-## 🚀 Featured Work
+## 🚀 Architecture in Action
 
 <table>
 <tr>
 <td width="50%">
 <h3><a href="https://dublab.com.ph/">Dub Lab Sports CMS</a></h3>
-<p><i>Content platform for Philippine basketball leagues</i></p>
 
-**What it does:**  
-Role-based CMS with real-time collaboration, sports entity management, and websocket messaging
+**System Design:**
+```
+Client Layer
+    ↓
+Next.js (SSR)
+    ↓
+API Layer (Controller-Service)
+    ↓
+┌─────────────┬──────────────┐
+│   MongoDB   │  WebSockets  │
+│  (Prisma)   │  (Socket.io) │
+└─────────────┴──────────────┘
+```
 
-**Stack:**  
-`Next.js` `Prisma` `MongoDB` `Socket.io` `Docker`
+**Patterns:** Repository Pattern • Real-time Event Broadcasting • Role-based Access Control
+
+**Stack:** `Next.js` `Prisma` `MongoDB` `Socket.io` `Docker`
 
 </td>
 <td width="50%">
-<h3>Sports CMS API</h3>
-<p><i>Microservices rewrite with enterprise patterns</i></p>
+<h3>Sports CMS API (Microservices)</h3>
 
-**What it does:**  
-DDD architecture, multi-layer design, Azure K8s deployment with full CI/CD
+**System Design:**
+```
+API Gateway
+    ↓
+┌──────────┬──────────┬──────────┐
+│ Service1 │ Service2 │ Service3 │
+└────┬─────┴────┬─────┴────┬─────┘
+     │          │          │
+   gRPC    Azure Bus   gRPC
+     │          │          │
+   ┌─┴──────────┴──────────┴─┐
+   │      MSSQL Cluster       │
+   └──────────────────────────┘
+```
 
-**Stack:**  
-`.NET 9` `EF Core` `Azure DevOps` `Kubernetes` `Docker`
+**Patterns:** DDD • CQRS • Service Discovery • Distributed Tracing
+
+**Stack:** `.NET 9` `gRPC` `Azure K8s` `Service Bus`
 
 </td>
 </tr>
 
 <tr>
 <td width="50%">
-<h3>InternConnect 🏆</h3>
-<p><i>Best Capstone Award Winner</i></p>
+<h3>China Bank ETL Platform</h3>
 
-**What it does:**  
-University internship management platform with multi-role workflows
+**System Design:**
+```
+Source Systems
+    ↓
+Azure Data Pipeline
+    ↓
+┌─────────────┬──────────────┐
+│ Validation  │ Transform    │
+└──────┬──────┴──────┬───────┘
+       │             │
+   Service Bus   Event Grid
+       │             │
+   ┌───┴─────────────┴────┐
+   │  Microservices Layer │
+   └──────────────────────┘
+```
 
-**Stack:**  
-`.NET 5` `Angular` `Entity Framework` `MSSQL`
+**Patterns:** Event-driven ETL • Saga Pattern • Dead Letter Handling • Retry Logic
+
+**Stack:** `.NET 8/10` `SSIS` `Azure Service Bus` `gRPC`
 
 </td>
 <td width="50%">
 <h3>Crypto Research Bot</h3>
-<p><i>AI-powered research assistant</i></p>
 
-**What it does:**  
-RAG pipeline for crypto analysis with on-chain Polygon integration
+**System Design:**
+```
+Data Sources (APIs/Web)
+    ↓
+Async Orchestrator
+    ↓
+┌──────────┬──────────┬──────────┐
+│ Scraper  │  Parser  │  Tagger  │
+└────┬─────┴────┬─────┴────┬─────┘
+     │          │          │
+  Message Queue (Async)
+     │          │          │
+   ┌─┴──────────┴──────────┴─┐
+   │   Vector DB (Qdrant)     │
+   └──────────────────────────┘
+```
 
-**Stack:**  
-`Next.js` `Qdrant` `Solidity` `OpenAI` `MongoDB`
+**Patterns:** Event-driven Processing • RAG Pipeline • Async Workers
+
+**Stack:** `Next.js` `Qdrant` `OpenAI` `Solidity`
 
 </td>
 </tr>
@@ -201,32 +350,44 @@ RAG pipeline for crypto analysis with on-chain Polygon integration
 
 ---
 
-## 📌 What I Actually Do
+## 📚 System Design Journey
 
 ```typescript
-const expertise = {
-  architecture: [
-    "Design microservices with gRPC inter-service communication",
-    "Implement DDD and clean architecture patterns",
-    "Build ETL pipelines for data transformation at scale"
+const currentLearningPath = {
+  
+  // What I'm actively studying
+  theory: [
+    "CAP theorem and distributed consistency models",
+    "Consensus algorithms (Raft, Paxos)",
+    "Distributed caching strategies (Cache-aside, Write-through)",
+    "Load balancing algorithms (Round-robin, Consistent hashing)",
+    "Rate limiting patterns (Token bucket, Leaky bucket)"
   ],
   
-  development: [
-    "Ship full-stack features across Angular/React/Next.js + .NET/Node",
-    "Migrate legacy systems to modern architectures (HTTP→gRPC, React→Next SSR)",
-    "Develop real-time features with WebSockets and message queues"
+  // What I'm building to learn
+  practice: [
+    "Implementing Saga pattern for distributed transactions",
+    "Building event-driven microservices with Azure Service Bus",
+    "Designing systems with eventual consistency",
+    "Creating API Gateways with routing and aggregation",
+    "Experimenting with CQRS and Event Sourcing"
   ],
   
-  deployment: [
-    "Configure CI/CD pipelines in Azure DevOps and Jenkins",
-    "Deploy to Kubernetes clusters with proper observability",
-    "Manage cloud infrastructure across Azure services"
+  // Real production experience
+  applied: [
+    "Migrated monolithic HTTP to distributed gRPC microservices",
+    "Architected async messaging with Azure Service Bus",
+    "Built real-time systems with WebSocket event streaming",
+    "Designed ETL pipelines handling cross-system data consistency",
+    "Implemented service discovery and health checks in K8s"
   ],
   
-  leadership: [
-    "Create standardized boilerplates for team velocity",
-    "Coordinate deployments across multiple business teams",
-    "Mentor through code reviews and technical documentation"
+  // What's next
+  exploring: [
+    "Service mesh patterns (Istio, Linkerd)",
+    "Distributed tracing (OpenTelemetry)",
+    "Stream processing (Kafka, Event Hubs)",
+    "GraphQL federation for microservices"
   ]
 };
 ```
@@ -235,25 +396,53 @@ const expertise = {
 
 ---
 
-## 🎓 Education
+## 🎯 Core Competencies
+
+| Distributed Systems | Async Messaging | Architecture Patterns | Data Engineering |
+|:---:|:---:|:---:|:---:|
+| Microservices Design | Azure Service Bus | Domain-Driven Design | ETL Pipelines |
+| gRPC Communication | Pub/Sub (Redis) | CQRS + Event Sourcing | Data Consistency |
+| Service Discovery | Message Queues | Clean Architecture | CDC Patterns |
+| Load Balancing | Event-driven Flows | API Gateway / BFF | Stream Processing |
+
+<br>
+
+---
+
+## 🎓 Education & Continuous Learning
 
 **University of Santo Tomas**  
 Bachelor of Information and Technology • `2018 - 2022`
 
-### Recent Certifications
+### Certifications & Courses
 
 <table>
 <tr>
-<td>✓ Complete C# Masterclass</td>
-<td>✓ Docker Mastery with Kubernetes</td>
-</tr>
-<tr>
-<td>✓ Entity Framework: A Full Tour</td>
-<td>✓ Software Architecture & Design</td>
-</tr>
-<tr>
-<td>✓ Building Web Apps with Angular 12</td>
-<td>✓ Developing ASP.NET MVC Applications</td>
+<td width="50%">
+
+**Completed (2024-2025)**
+- ✓ Software Architecture & Design of Modern Large Scale Systems
+- ✓ Docker Mastery with Kubernetes
+- ✓ Complete C# Masterclass
+- ✓ Entity Framework: A Full Tour
+- ✓ Building Web Applications with Angular 12
+- ✓ Developing ASP.NET MVC Web Applications
+
+</td>
+<td width="50%">
+
+**In Progress**
+- 🔄 Angular Deep Dive
+- 🔄 System Design Interview Prep
+- 📖 Designing Data-Intensive Applications
+- 📖 Building Microservices (2nd Edition)
+
+**Queued**
+- 📋 Master ASP.NET Core Identity
+- 📋 Advanced SQL Querying Techniques
+- 📋 Kafka: The Definitive Guide
+
+</td>
 </tr>
 </table>
 
@@ -275,6 +464,8 @@ Bachelor of Information and Technology • `2018 - 2022`
 </a>
 
 <br><br>
+
+**Currently obsessed with:** Distributed Systems • Event-Driven Architecture • Async Messaging Patterns
 
 ![Profile Views](https://komarev.com/ghpvc/?username=JVLandayan&color=58a6ff&style=flat)
 
