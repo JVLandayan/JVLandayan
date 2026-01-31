@@ -262,14 +262,8 @@ Bachelor of Information and Technology | 2018 - 2022
 
 <div align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=JVLandayan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=3B82F6&icon_color=3B82F6" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JVLandayan&layout=compact&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=3B82F6" alt="Top Languages" height="170" />
-
-</div>
-
-<div align="center">
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JVLandayan&theme=tokyonight&hide_border=true&background=1A1B27&stroke=3B82F6&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" alt="GitHub Streak" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=JVLandayan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=3B82F6&icon_color=3B82F6" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=JVLandayan&layout=compact&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=3B82F6" alt="Top Languages" height="170" />
 
 </div>
 
