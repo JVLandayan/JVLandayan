@@ -262,14 +262,14 @@ Bachelor of Information and Technology | 2018 - 2022
 
 <div align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=3B82F6&icon_color=3B82F6" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=3B82F6" alt="Top Languages" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JVLandayan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=3B82F6&icon_color=3B82F6" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JVLandayan&layout=compact&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=3B82F6" alt="Top Languages" height="170" />
 
 </div>
 
 <div align="center">
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=1A1B27&stroke=3B82F6&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JVLandayan&theme=tokyonight&hide_border=true&background=1A1B27&stroke=3B82F6&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" alt="GitHub Streak" />
 
 </div>
 
@@ -285,7 +285,7 @@ Bachelor of Information and Technology | 2018 - 2022
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Site-3B82F6?style=for-the-badge)](https://jvlandayan-portfolio.vercel.app)
 [![Email](https://img.shields.io/badge/📧_Email-Let's_Talk-D14836?style=for-the-badge)](mailto:jvlandayaaan@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jvlandayan)
 
 </div>
 
@@ -299,7 +299,7 @@ Bachelor of Information and Technology | 2018 - 2022
 
 **⚡ Fun Fact:** I've worked with both crypto smart contracts and enterprise banking systems!
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=3B82F6&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=JVLandayan&color=3B82F6&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
 
 ---
 
