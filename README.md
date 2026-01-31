@@ -1,100 +1,281 @@
-# Juaquin Victor Landayan
+<div align="center">
 
-Full Stack Software Engineer specializing in .NET, Angular, and microservices architecture.
+# JUAQUIN VICTOR LANDAYAN
 
-[Portfolio](https://jvlandayan-portfolio.vercel.app) • [Email](mailto:jvlandayaaan@gmail.com) • [LinkedIn](https://linkedin.com/in/jvlandayan)
+**Full Stack Software Engineer**
 
----
+Building production systems with .NET • Angular • Next.js
 
-## Currently
+<br>
 
-**China Bank PH** — Full Stack Engineer (Contract) • Oct 2025 - Present  
-Building ETL pipelines and microservices platforms with gRPC and Azure Service Bus.
+<a href="https://jvlandayan-portfolio.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-000?style=flat&logo=vercel&logoColor=fff" height="24"/></a>
+<a href="mailto:jvlandayaaan@gmail.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=flat&logo=gmail&logoColor=fff" height="24"/></a>
+<a href="https://linkedin.com/in/jvlandayan"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=flat&logo=linkedin&logoColor=fff" height="24"/></a>
 
-**Dub Lab Philippines** — Full Stack Engineer • July 2025 - Present  
-Maintaining and developing sports content management system with Next.js and real-time features.
-
----
-
-## Technical Expertise
-
-**Languages & Frameworks**  
-C# • TypeScript • JavaScript • .NET (5, 8, 9, 10) • Angular • Next.js • React • Vue.js • Node.js/Express
-
-**Backend & Architecture**  
-Microservices • gRPC • RESTful APIs • Domain-Driven Design • Clean Architecture • ETL Pipelines • WebSockets
-
-**Data & Storage**  
-MSSQL • MongoDB • Redis • Entity Framework Core • Prisma ORM • Qdrant • Azure Service Bus
-
-**DevOps & Cloud**  
-Azure (AKS, DevOps, App Service, Service Bus) • Docker • Kubernetes • CI/CD Pipelines • Jenkins
-
-**Additional**  
-Solidity • OpenAI/Anthropic APIs • TailwindCSS • SSIS
+</div>
 
 ---
 
-## Experience
+<br>
 
-**Willis Towers Watson** — Full Stack .NET Engineer • Aug 2022 - Jan 2024
-- Developed Angular applications with microservices backends
-- Migrated inter-service communication from HTTP to gRPC
-- Worked with Azure Kubernetes Service, Redis, and Docker in agile teams
+```yaml
+current_status:
+  - role: "Full Stack Engineer (Contract)"
+    company: "China Bank PH"
+    timeline: "Oct 2025 - Present"
+    focus: ["ETL Pipelines", "Microservices", "gRPC", "Azure Service Bus"]
+    
+  - role: "Full Stack Engineer"
+    company: "Dub Lab Philippines"
+    timeline: "July 2025 - Present"
+    focus: ["Sports CMS", "Next.js", "Real-time WebSockets", "Content Management"]
+```
 
-**Agora Hive** — Full Stack Engineer (Freelance) • Jan 2024 - July 2025
-- Built cryptocurrency research bot using RAG pipeline with vector databases
-- Developed smart contracts deployed on Polygon Network
-- Created full-stack applications with Next.js, Vue, Angular, and serverless functions
-
-**Manulife** — Full Stack Engineer Intern • March 2022 - July 2022
-- Developed backend APIs with Node.js/Express for KPI data
-- Worked with Azure Data Factory ETL pipelines and CI/CD using Jenkins
-
----
-
-## Selected Projects
-
-**[Dub Lab Sports CMS](https://dublab.com.ph/)** • Next.js, Prisma, MongoDB, Socket.io  
-Sports content management system for Philippine basketball leagues. Features role-based authentication, real-time messaging between authors and editors, custom tagging, and comprehensive sports entity management.
-
-**Sports CMS API** • .NET 9, EF Core, Azure K8s, Docker  
-Microservices version with Domain-Driven Design, multi-layer architecture, and Azure DevOps CI/CD pipelines.
-
-**InternConnect** • .NET 5, Angular, EF Core, MSSQL  
-Platform for managing university internship processes. Awarded best capstone project in Web & Mobile Development track.
-
-**Crypto Research Bot** • Next.js, Qdrant, Solidity, OpenAI  
-Research assistant with RAG pipeline, on-chain integration via Polygon smart contracts, and automated data orchestration.
+<br>
 
 ---
 
-## Key Contributions
+## ⚡ Tech Stack
 
-- Co-architected scalable microservices platforms using gRPC and Azure Service Bus
-- Developed standardized service boilerplates accelerating team delivery
-- Led migrations from HTTP to gRPC and React to Next.js with SSR
-- Built ETL pipelines coordinating across multiple business teams
-- Implemented real-time features using WebSockets for collaborative applications
+<table>
+<tr>
+<td valign="top" width="33%">
+
+### Frontend
+```
+TypeScript
+├── Angular (2-18)
+├── Next.js
+├── React
+└── Vue.js
+
+Styling
+└── TailwindCSS
+```
+
+</td>
+<td valign="top" width="33%">
+
+### Backend
+```
+.NET (5, 8, 9, 10)
+├── Microservices
+├── gRPC
+├── REST APIs
+└── Clean Architecture
+
+Node.js
+└── Express
+```
+
+</td>
+<td valign="top" width="33%">
+
+### Data & Cloud
+```
+Databases
+├── MSSQL
+├── MongoDB
+└── Redis
+
+Azure
+├── AKS
+├── Service Bus
+├── DevOps
+└── App Service
+```
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>Extended Stack</b></summary>
+
+**ORMs & Data Tools**  
+Entity Framework Core • Prisma • Qdrant Vector DB • SSIS
+
+**DevOps & Containers**  
+Docker • Kubernetes • Azure Pipelines • Jenkins • CI/CD
+
+**Web3 & AI**  
+Solidity • Polygon Network • OpenAI API • Anthropic Claude • RAG Pipelines
+
+**Real-time & Messaging**  
+WebSockets • Socket.io • Azure Service Bus • Redis Pub/Sub
+
+</details>
+
+<br>
 
 ---
 
-## Education & Certifications
+## 💼 Career Snapshot
 
-**University of Santo Tomas** — Bachelor of Information and Technology • 2018 - 2022
+<table>
+<tr><td>
 
-**Recent Certifications (2024-2025)**
-- Complete C# Masterclass
-- Entity Framework: A Full Tour
-- Docker Mastery with Kubernetes
-- Software Architecture & Design of Modern Large Scale Systems
-- Building Web Applications with Angular 12
-- Developing ASP.NET MVC Web Applications
+**Willis Towers Watson** • *Full Stack .NET Engineer*  
+`Aug 2022 - Jan 2024`
+
+Shipped Angular + microservices features • Migrated HTTP to gRPC across services • Deployed on Azure Kubernetes with Redis caching
+
+</td></tr>
+<tr><td>
+
+**Agora Hive** • *Full Stack Engineer (Freelance)*  
+`Jan 2024 - July 2025`
+
+Built crypto research bot with RAG pipeline • Deployed smart contracts on Polygon • Full-stack apps with Next.js, Vue, Angular
+
+</td></tr>
+<tr><td>
+
+**Manulife** • *Full Stack Engineer Intern*  
+`March 2022 - July 2022`
+
+Node.js APIs for KPI dashboards • Azure Data Factory ETL • CI/CD with Jenkins
+
+</td></tr>
+</table>
+
+<br>
+
+---
+
+## 🚀 Featured Work
+
+<table>
+<tr>
+<td width="50%">
+<h3><a href="https://dublab.com.ph/">Dub Lab Sports CMS</a></h3>
+<p><i>Content platform for Philippine basketball leagues</i></p>
+
+**What it does:**  
+Role-based CMS with real-time collaboration, sports entity management, and websocket messaging
+
+**Stack:**  
+`Next.js` `Prisma` `MongoDB` `Socket.io` `Docker`
+
+</td>
+<td width="50%">
+<h3>Sports CMS API</h3>
+<p><i>Microservices rewrite with enterprise patterns</i></p>
+
+**What it does:**  
+DDD architecture, multi-layer design, Azure K8s deployment with full CI/CD
+
+**Stack:**  
+`.NET 9` `EF Core` `Azure DevOps` `Kubernetes` `Docker`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+<h3>InternConnect 🏆</h3>
+<p><i>Best Capstone Award Winner</i></p>
+
+**What it does:**  
+University internship management platform with multi-role workflows
+
+**Stack:**  
+`.NET 5` `Angular` `Entity Framework` `MSSQL`
+
+</td>
+<td width="50%">
+<h3>Crypto Research Bot</h3>
+<p><i>AI-powered research assistant</i></p>
+
+**What it does:**  
+RAG pipeline for crypto analysis with on-chain Polygon integration
+
+**Stack:**  
+`Next.js` `Qdrant` `Solidity` `OpenAI` `MongoDB`
+
+</td>
+</tr>
+</table>
+
+<br>
+
+---
+
+## 📌 What I Actually Do
+
+```typescript
+const expertise = {
+  architecture: [
+    "Design microservices with gRPC inter-service communication",
+    "Implement DDD and clean architecture patterns",
+    "Build ETL pipelines for data transformation at scale"
+  ],
+  
+  development: [
+    "Ship full-stack features across Angular/React/Next.js + .NET/Node",
+    "Migrate legacy systems to modern architectures (HTTP→gRPC, React→Next SSR)",
+    "Develop real-time features with WebSockets and message queues"
+  ],
+  
+  deployment: [
+    "Configure CI/CD pipelines in Azure DevOps and Jenkins",
+    "Deploy to Kubernetes clusters with proper observability",
+    "Manage cloud infrastructure across Azure services"
+  ],
+  
+  leadership: [
+    "Create standardized boilerplates for team velocity",
+    "Coordinate deployments across multiple business teams",
+    "Mentor through code reviews and technical documentation"
+  ]
+};
+```
+
+<br>
+
+---
+
+## 🎓 Education
+
+**University of Santo Tomas**  
+Bachelor of Information and Technology • `2018 - 2022`
+
+### Recent Certifications
+
+<table>
+<tr>
+<td>✓ Complete C# Masterclass</td>
+<td>✓ Docker Mastery with Kubernetes</td>
+</tr>
+<tr>
+<td>✓ Entity Framework: A Full Tour</td>
+<td>✓ Software Architecture & Design</td>
+</tr>
+<tr>
+<td>✓ Building Web Apps with Angular 12</td>
+<td>✓ Developing ASP.NET MVC Applications</td>
+</tr>
+</table>
+
+<br>
 
 ---
 
 <div align="center">
 
-<a href="https://app.daily.dev/jvlndyn"><img src="https://api.daily.dev/devcards/v2/v3ccSWObzxRNwd11OVgu8.png?r=0rv" width="356" alt="JV Landayan's Dev Card"/></a>
+### 📊 GitHub Activity
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JVLandayan&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JVLandayan&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
+
+<br>
+
+<a href="https://app.daily.dev/jvlndyn">
+<img src="https://api.daily.dev/devcards/v2/v3ccSWObzxRNwd11OVgu8.png?r=0rv" width="356" alt="JV Landayan's Dev Card"/>
+</a>
+
+<br><br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=JVLandayan&color=58a6ff&style=flat)
 
 </div>
