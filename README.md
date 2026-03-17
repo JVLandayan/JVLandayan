@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Full+Stack+Software+Engineer;.NET+%7C+Angular+%7C+Next.js;Microservices+Enthusiast;Always+Learning+%F0%9F%9A%80)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Full+Stack+Software+Engineer;.NET+%7C+Angular+%7C+Next.js;Always+Learning+%F0%9F%9A%80)](https://git.io/typing-svg)
   
   <a href="https://jvlandayan-portfolio.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
@@ -27,7 +27,7 @@
 - **Dub Lab Philippines** - *Full Stack Engineer (Maintainer)* | July 2025 - Present
 
 **📊 Track Record:**
-- 3+ years of professional software engineering experience
+- 4+ years of professional software engineering experience
 - Successfully migrated legacy systems to modern architectures
 - Built and deployed production-grade microservices platforms
 - Led full-stack development for multiple startups and enterprises
